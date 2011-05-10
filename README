@@ -1,0 +1,17 @@
+$Id$
+
+pwdhttpd
+A small web server that serves the current directory
+
+Written by Mina Naguib
+http://mina.naguib.ca
+
+License: GPL
+
+To run:
+pwdhttpd
+
+- Listening port -
+ * Second commandline argument
+ * Environment variable PWDHTTPD_PORT
+ * Default 80
